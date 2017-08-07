@@ -10,4 +10,4 @@
 - Yishu Miao, Edward Grefenstette and Phil Blunsom. "[Discovering Discrete Latent Topics with Neural Variational Inference](http://proceedings.mlr.press/v70/miao17a/miao17a.pdf)." ICML, 2017.
 - Zichao Yang, Zhiting Hu, Ruslan Salakhutdinov and Taylor Berg-Kirkpatrick. "[Improved Variational Autoencoders for Text Modeling using Dilated Convolutions](http://proceedings.mlr.press/v70/yang17d/yang17d.pdf)." ICML, 2017.
 - Akash Srivastava and Charles Sutton. "[Autoencoding Variational Inference for Topic Models](https://arxiv.org/pdf/1703.01488.pdf)." ICLR, 2017. [code](https://github.com/akashgit/autoencoding_vi_for_topic_models)
-- Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley. "[TopicRNN: A Recurrent Neural Network with Long-Range Semantic Dependency](https://arxiv.org/pdf/1611.01702.pdf)." ICLR, 2017.
+- Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley. "[TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency](https://arxiv.org/pdf/1611.01702.pdf)." ICLR, 2017.
