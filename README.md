@@ -20,6 +20,6 @@
 
 #### Sentence or Document Modelling
 - Jiwei Li, Minh-Thang Luong and Dan Jurafsky. [A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
-- Tian Wang and Kyunghyun Cho. [Larger-Context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
-- Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. [Larger-Context Language Modelling with Recurrent Neural Network](https://arxiv.org/pdf/1511.03962.pdf)." arXiv preprint arXiv:1511.03962, 2016.
+- Tian Wang and Kyunghyun Cho. [Larger-context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
+- Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. [Document Context Language Models](https://arxiv.org/pdf/1511.03962.pdf)." arXiv preprint arXiv:1511.03962, 2016.
 
