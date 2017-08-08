@@ -14,16 +14,16 @@
 - Akash Srivastava and Charles Sutton. "[Autoencoding Variational Inference for Topic Models](https://arxiv.org/pdf/1703.01488.pdf)." ICLR, 2017. [code](https://github.com/akashgit/autoencoding_vi_for_topic_models)
 - Adji B. Dieng, Chong Wang, Jianfeng Gao and John Paisley. "[TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency](https://arxiv.org/pdf/1611.01702.pdf)." ICLR, 2017.
 - Chunting Zhou and Graham Neubig. "[Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction](http://aclweb.org/anthology/P17-1029)." ACL, 2017.
-- Piji Li, Wai Lam, Lidong Bing and Zihao Wang. [Deep Recurrent Generative Decoder for Abstractive Text Summarization](https://arxiv.org/pdf/1708.00625.pdf)." EMNLP, 2017.
-- Piji Li, ZihaoWang, Wai Lam, Zhaochun Ren and Lidong Bing. [Salience Estimation via Variational Auto-Encoders for Multi-Document Summarization](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14613/14140)." AAAI, 2017.
-- Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio. [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069.pdf)." AAAI, 2017.
-- Iulian V. Serban, Alexander G. Ororbia, Joelle Pineau and Aaron Courville. [Piecewise Latent Variables for Neural Variational Text Processing](https://arxiv.org/pdf/1612.00377.pdf)." EMNLP, 2017.
-- Ramesh Nallapati, Igor Melnyk, Abhishek Kumar and Bowen Zhou. [SenGen: Sentence Generating Neural Variational Topic Model](https://arxiv.org/pdf/1708.00308.pdf)." ICML Workshop on Learning to Generate Natural Language, 2017.
+- Piji Li, Wai Lam, Lidong Bing and Zihao Wang. "[Deep Recurrent Generative Decoder for Abstractive Text Summarization](https://arxiv.org/pdf/1708.00625.pdf)." EMNLP, 2017.
+- Piji Li, ZihaoWang, Wai Lam, Zhaochun Ren and Lidong Bing. "[Salience Estimation via Variational Auto-Encoders for Multi-Document Summarization](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14613/14140)." AAAI, 2017.
+- Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio. "[A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069.pdf)." AAAI, 2017.
+- Iulian V. Serban, Alexander G. Ororbia, Joelle Pineau and Aaron Courville. "[Piecewise Latent Variables for Neural Variational Text Processing](https://arxiv.org/pdf/1612.00377.pdf)." EMNLP, 2017.
+- Ramesh Nallapati, Igor Melnyk, Abhishek Kumar and Bowen Zhou. "[SenGen: Sentence Generating Neural Variational Topic Model](https://arxiv.org/pdf/1708.00308.pdf)." ICML Workshop on Learning to Generate Natural Language, 2017.
 
 #### Sentence or Document Modelling
-- Jiwei Li, Minh-Thang Luong and Dan Jurafsky. [A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
-- Tian Wang and Kyunghyun Cho. [Larger-context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
-- Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. [Document Context Language Models](https://arxiv.org/pdf/1511.03962.pdf)." arXiv preprint arXiv:1511.03962, 2016.
-- Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau. [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)." AAAI, 2016.
+- Jiwei Li, Minh-Thang Luong and Dan Jurafsky. "[A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
+- Tian Wang and Kyunghyun Cho. "[Larger-context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
+- Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. "[Document Context Language Models](https://arxiv.org/pdf/1511.03962.pdf)." arXiv preprint arXiv:1511.03962, 2016.
+- Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau. "[Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)." AAAI, 2016.
 
 
