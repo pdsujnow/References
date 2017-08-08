@@ -17,3 +17,9 @@
 - Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau. [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)." AAAI, 2016.
 - Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio. [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069.pdf)." AAAI, 2017.
 - Iulian V. Serban, Alexander G. Ororbia, Joelle Pineau and Aaron Courville. [Piecewise Latent Variables for Neural Variational Text Processing](https://arxiv.org/pdf/1612.00377.pdf)." EMNLP, 2017.
+
+#### Sentence or Document Modelling
+- Jiwei Li, Minh-Thang Luong and Dan Jurafsky. [A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
+- Tian Wang and Kyunghyun Cho. [Larger-Context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
+- Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. [Larger-Context Language Modelling with Recurrent Neural Network](https://arxiv.org/pdf/1511.03962.pdf)." arXiv preprint arXiv:1511.03962, 2016.
+
