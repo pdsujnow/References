@@ -14,6 +14,7 @@
 - Adji B. Dieng, Chong Wang, Jianfeng Gao and John Paisley. "[TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency](https://arxiv.org/pdf/1611.01702.pdf)." ICLR, 2017.
 - Chunting Zhou and Graham Neubig. "[Multi-space Variational Encoder-Decoders for Semi-supervised Labeled Sequence Transduction](http://aclweb.org/anthology/P17-1029)." ACL, 2017.
 - Piji Li, Wai Lam, Lidong Bing and Zihao Wang. [Deep Recurrent Generative Decoder for Abstractive Text Summarization](https://arxiv.org/pdf/1708.00625.pdf)." EMNLP, 2017.
+- Piji Li, ZihaoWang, Wai Lam, Zhaochun Ren and Lidong Bing. [Salience Estimation via Variational Auto-Encoders for Multi-Document Summarization](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14613/14140)." AAAI, 2017.
 - Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio. [A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069.pdf)." AAAI, 2017.
 - Iulian V. Serban, Alexander G. Ororbia, Joelle Pineau and Aaron Courville. [Piecewise Latent Variables for Neural Variational Text Processing](https://arxiv.org/pdf/1612.00377.pdf)." EMNLP, 2017.
 
