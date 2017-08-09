@@ -1,4 +1,3 @@
-### Generative Models
 #### VAEs
 - Diederik P. Kingma and Max Welling. "[Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)." ICLR, 2014. [code](https://github.com/y0ast/VAE-TensorFlow)
 - Diederik P. Kingma, Shakir Mohamed, Danilo Jimenez Rezende and Max Welling. "[Semi-supervised Learning with Deep Generative Models](https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)." NIPS, 2014. [code](https://github.com/dpkingma/nips14-ssl)
