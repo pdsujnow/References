@@ -31,8 +31,6 @@
 - Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola and Eduard Hovy. "[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)." NAACL-HLT, 2016.
 - Chen Xing, Wei Wu, Yu Wu, Jie Liu, Yalou Huang, Ming Zhou and Wei-Ying Ma. "[Topic Aware Neural Response Generation](https://arxiv.org/pdf/1606.08340.pdf)." AAAI, 2017.
 - Manzil Zaheer, Amr Ahmed and Alexander J. Smola. "[Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data](http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf)." ICML, 2017.
-
-#### Neural Machine Translation
 - Kyunghyun Cho, Bart van Merr\.{i}\"{e}nboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk and Yoshua Bengio. "[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://www.aclweb.org/anthology/D14-1179)." EMNLP, 2014.
 - Dzmitry Bahdanau, KyungHyun Cho and Yoshua Bengio. "[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)." ICLR, 2015.
 
