@@ -1,4 +1,4 @@
-### Generative Models
+### Deep Generative Models
 #### VAEs
 - Diederik P. Kingma and Max Welling. "[Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)." ICLR, 2014. [code](https://github.com/y0ast/VAE-TensorFlow)
 - Diederik P. Kingma, Shakir Mohamed, Danilo Jimenez Rezende and Max Welling. "[Semi-supervised Learning with Deep Generative Models](https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)." NIPS, 2014. [code](https://github.com/dpkingma/nips14-ssl)
@@ -37,4 +37,6 @@
 - Kyunghyun Cho, Bart van Merr\.{i}\"{e}nboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk and Yoshua Bengio. "[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://www.aclweb.org/anthology/D14-1179)." EMNLP, 2014.
 - Dzmitry Bahdanau, KyungHyun Cho and Yoshua Bengio. "[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)." ICLR, 2015.
 
+### Bayesian Learning
+- David M. Blei, Alp Kucukelbir and Jon D. McAuliffe. "[Variational Inference: A Review for Statisticians](http://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1285773?needAccess=true)." Journal of the American Statistical Association, 2017.
 
