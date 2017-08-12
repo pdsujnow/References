@@ -1,3 +1,4 @@
+### Generative Models
 #### VAEs
 - Diederik P. Kingma and Max Welling. "[Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)." ICLR, 2014. [code](https://github.com/y0ast/VAE-TensorFlow)
 - Diederik P. Kingma, Shakir Mohamed, Danilo Jimenez Rezende and Max Welling. "[Semi-supervised Learning with Deep Generative Models](https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)." NIPS, 2014. [code](https://github.com/dpkingma/nips14-ssl)
@@ -19,7 +20,8 @@
 - Ramesh Nallapati, Igor Melnyk, Abhishek Kumar and Bowen Zhou. "[SenGen: Sentence Generating Neural Variational Topic Model](https://arxiv.org/pdf/1708.00308.pdf)." ICML Workshop on Learning to Generate Natural Language, 2017.
 - Dallas Card, Chenhao Tan and Noah A. Smith. "[A Neural Framework for Generalized Topic Models](https://arxiv.org/pdf/1705.09296v1.pdf)." arXiv preprint arXiv:1705.09296v1, 2017.
 
-#### NLP
+### NLP
+#### Sentence or Document Modelling
 - Rui Lin, Shujie Liu, Muyun Yang, Mu Li, Ming Zhou and Sheng Li. "[Hierarchical Recurrent Neural Network for Document Modeling](http://www.aclweb.org/anthology/D15-1106)." EMNLP, 2015.
 - Jiwei Li, Minh-Thang Luong and Dan Jurafsky. "[A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
 - Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li and Heng Ji. "[A Novel Neural Topic Model and Its Supervised Extension](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9303/9544)." AAAI, 2015.
@@ -29,6 +31,8 @@
 - Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola and Eduard Hovy. "[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)." NAACL-HLT, 2016.
 - Chen Xing, Wei Wu, Yu Wu, Jie Liu, Yalou Huang, Ming Zhou and Wei-Ying Ma. "[Topic Aware Neural Response Generation](https://arxiv.org/pdf/1606.08340.pdf)." AAAI, 2017.
 - Manzil Zaheer, Amr Ahmed and Alexander J. Smola. "[Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data](http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf)." ICML, 2017.
+
+#### Neural Machine Translation
 - Kyunghyun Cho, Bart van Merr\.{i}\"{e}nboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk and Yoshua Bengio. "[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://www.aclweb.org/anthology/D14-1179)." EMNLP, 2014.
 - Dzmitry Bahdanau, KyungHyun Cho and Yoshua Bengio. "[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)." ICLR, 2015.
 
