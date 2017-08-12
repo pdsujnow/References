@@ -18,7 +18,7 @@
 - Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio. "[A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069.pdf)." AAAI, 2017.
 - Iulian V. Serban, Alexander G. Ororbia, Joelle Pineau and Aaron Courville. "[Piecewise Latent Variables for Neural Variational Text Processing](https://arxiv.org/pdf/1612.00377.pdf)." EMNLP, 2017.
 - Ramesh Nallapati, Igor Melnyk, Abhishek Kumar and Bowen Zhou. "[SenGen: Sentence Generating Neural Variational Topic Model](https://arxiv.org/pdf/1708.00308.pdf)." ICML Workshop on Learning to Generate Natural Language, 2017.
-- Dallas Card, Chenhao Tan and Noah A. Smith. "[A Neural Framework for Generalized Topic Models](https://arxiv.org/pdf/1705.09296v1.pdf)." arXiv preprint arXiv:1705.09296v1, 2017.
+- Dallas Card, Chenhao Tan and Noah A. Smith. "[A Neural Framework for Generalized Topic Models](https://arxiv.org/pdf/1705.09296v1.pdf)." arXiv preprint arXiv:1705.09296v1, 2017. [code](https://github.com/dallascard/neural_topic_models)
 
 ### Natural Language Processing
 #### Sentence or Document Modelling
