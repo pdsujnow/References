@@ -31,8 +31,8 @@
 - Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. "[Document Context Language Models](https://arxiv.org/pdf/1511.03962.pdf)." ICLR Workshop, 2016.
 - Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau. "[Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)." AAAI, 2016.
 - Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola and Eduard Hovy. "[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)." NAACL-HLT, 2016.
-- Chen Xing, Wei Wu, Yu Wu, Jie Liu, Yalou Huang, Ming Zhou and Wei-Ying Ma. "[Topic Aware Neural Response Generation](https://arxiv.org/pdf/1606.08340.pdf)." AAAI, 2017.
 - Manzil Zaheer, Amr Ahmed and Alexander J. Smola. "[Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data](http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf)." ICML, 2017.
+- Adams Wei Yu, Hongrae Lee and Quoc V. Le. "[Learning to Skim Text](http://aclweb.org/anthology/P17-1172)." ACL, 2017.
 
 #### Neural Machine Translation
 - Kyunghyun Cho, Bart van Merr\.{i}\"{e}nboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk and Yoshua Bengio. "[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://www.aclweb.org/anthology/D14-1179)." EMNLP, 2014.
