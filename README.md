@@ -23,7 +23,7 @@
 - Dallas Card, Chenhao Tan and Noah A. Smith. "[A Neural Framework for Generalized Topic Models](https://arxiv.org/pdf/1705.09296v1.pdf)." arXiv preprint arXiv:1705.09296v1, 2017. [code](https://github.com/dallascard/neural_topic_models)
 
 ### Natural Language Processing
-#### Sentence or Document Modelling
+#### Neural Sentence or Document Modelling
 - Rui Lin, Shujie Liu, Muyun Yang, Mu Li, Ming Zhou and Sheng Li. "[Hierarchical Recurrent Neural Network for Document Modeling](http://www.aclweb.org/anthology/D15-1106)." EMNLP, 2015.
 - Jiwei Li, Minh-Thang Luong and Dan Jurafsky. "[A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
 - Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li and Heng Ji. "[A Novel Neural Topic Model and Its Supervised Extension](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9303/9544)." AAAI, 2015.
