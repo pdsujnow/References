@@ -29,10 +29,13 @@
 - Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li and Heng Ji. "[A Novel Neural Topic Model and Its Supervised Extension](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9303/9544)." AAAI, 2015.
 - Tian Wang and Kyunghyun Cho. "[Larger-context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
 - Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. "[Document Context Language Models](https://arxiv.org/pdf/1511.03962.pdf)." ICLR Workshop, 2016.
-- Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau. "[Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)." AAAI, 2016.
 - Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola and Eduard Hovy. "[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)." NAACL-HLT, 2016.
 - Manzil Zaheer, Amr Ahmed and Alexander J. Smola. "[Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data](http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf)." ICML, 2017.
 - Adams Wei Yu, Hongrae Lee and Quoc V. Le. "[Learning to Skim Text](http://aclweb.org/anthology/P17-1172)." ACL, 2017.
+
+#### Dialogue Generation
+- Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau. "[Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)." AAAI, 2016.
+- Tsung-Hsien Wen, Yishu Miao, Phil Blunsom and Steve Young. "[Latent Intention Dialogue Models](http://proceedings.mlr.press/v70/wen17a/wen17a.pdf)." ICML, 2017.
 
 #### Neural Machine Translation
 - Kyunghyun Cho, Bart van Merr\.{i}\"{e}nboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk and Yoshua Bengio. "[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://www.aclweb.org/anthology/D14-1179)." EMNLP, 2014.
