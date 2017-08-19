@@ -35,6 +35,7 @@
 - Akash Srivastava and Charles Sutton. "[Autoencoding Variational Inference for Topic Models](https://arxiv.org/pdf/1703.01488.pdf)." ICLR, 2017. [code](https://github.com/akashgit/autoencoding_vi_for_topic_models)
 - Adji B. Dieng, Chong Wang, Jianfeng Gao and John Paisley. "[TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency](https://arxiv.org/pdf/1611.01702.pdf)." ICLR, 2017.
 - Dallas Card, Chenhao Tan and Noah A. Smith. "[A Neural Framework for Generalized Topic Models](https://arxiv.org/pdf/1705.09296v1.pdf)." arXiv preprint arXiv:1705.09296v1, 2017. [code](https://github.com/dallascard/neural_topic_models)
+- Jey Han Lau, Timothy Baldwin and Trevor Cohn. "[Topically Driven Neural Language Model](http://aclweb.org/anthology/P/P17/P17-1033.pdf)." ACL, 2017. [code](https://github.com/jhlau/topically-driven-language-model)
 
 #### Dialogue Generation
 - Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau. "[Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)." AAAI, 2016.
