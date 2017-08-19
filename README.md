@@ -49,6 +49,7 @@
 - Dzmitry Bahdanau, KyungHyun Cho and Yoshua Bengio. "[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)." ICLR, 2015.
 
 ### Bayesian Learning
+- Shaohua Li, Tat-Seng Chua, Jun Zhu and Chunyan Miao. "[Generative Topic Embedding: a Continuous Representation of Documents](http://aclweb.org/anthology/P16-1063)." ACL, 2016. [code](https://github.com/askerlee/topicvec)
 - David M. Blei, Alp Kucukelbir and Jon D. McAuliffe. "[Variational Inference: A Review for Statisticians](http://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1285773?needAccess=true)." Journal of the American Statistical Association, 2017.
 - Eric Nalisnick and Padhraic Smyth. "[Variational Reference Priors](https://openreview.net/pdf?id=rJnjwsYde)." ICLR Workshop, 2017.
 
