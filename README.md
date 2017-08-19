@@ -27,13 +27,13 @@
 
 #### Neural Topic Modelling
 - Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li and Heng Ji. "[A Novel Neural Topic Model and Its Supervised Extension](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9303/9544)." AAAI, 2015.
+- Yishu Miao, Lei Yu and Phil Blunsom. "[Neural Variational Inference for Text Processing](http://proceedings.mlr.press/v48/miao16.pdf)." ICML, 2016. [code](https://github.com/ysmiao/nvdm)
 - Manzil Zaheer, Amr Ahmed and Alexander J. Smola. "[Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data](http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf)." ICML, 2017.
 - Yishu Miao, Edward Grefenstette and Phil Blunsom. "[Discovering Discrete Latent Topics with Neural Variational Inference](http://proceedings.mlr.press/v70/miao17a/miao17a.pdf)." ICML, 2017.
 - Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov and Eric P. Xing. "[Toward Controlled Generation of Text](http://proceedings.mlr.press/v70/hu17e/hu17e.pdf)." ICML, 2017.
 - Ramesh Nallapati, Igor Melnyk, Abhishek Kumar and Bowen Zhou. "[SenGen: Sentence Generating Neural Variational Topic Model](https://arxiv.org/pdf/1708.00308.pdf)." ICML Workshop on Learning to Generate Natural Language, 2017.
 - Akash Srivastava and Charles Sutton. "[Autoencoding Variational Inference for Topic Models](https://arxiv.org/pdf/1703.01488.pdf)." ICLR, 2017. [code](https://github.com/akashgit/autoencoding_vi_for_topic_models)
 - Adji B. Dieng, Chong Wang, Jianfeng Gao and John Paisley. "[TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency](https://arxiv.org/pdf/1611.01702.pdf)." ICLR, 2017.
-- Yishu Miao, Lei Yu and Phil Blunsom. "[Neural Variational Inference for Text Processing](http://proceedings.mlr.press/v48/miao16.pdf)." ICML, 2016. [code](https://github.com/ysmiao/nvdm)
 - Dallas Card, Chenhao Tan and Noah A. Smith. "[A Neural Framework for Generalized Topic Models](https://arxiv.org/pdf/1705.09296v1.pdf)." arXiv preprint arXiv:1705.09296v1, 2017. [code](https://github.com/dallascard/neural_topic_models)
 
 #### Dialogue Generation
