@@ -18,6 +18,7 @@
 
 ### Natural Language Processing
 #### Neural Sentence or Document Modelling
+- Yoon Kim. "[Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)." EMNLP, 2015. [code](https://github.com/yoonkim/CNN_sentence)
 - Rui Lin, Shujie Liu, Muyun Yang, Mu Li, Ming Zhou and Sheng Li. "[Hierarchical Recurrent Neural Network for Document Modeling](http://www.aclweb.org/anthology/D15-1106)." EMNLP, 2015.
 - Jiwei Li, Minh-Thang Luong and Dan Jurafsky. "[A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
 - Tian Wang and Kyunghyun Cho. "[Larger-context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
@@ -27,6 +28,7 @@
 
 #### Neural Topic Modelling
 - Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li and Heng Ji. "[A Novel Neural Topic Model and Its Supervised Extension](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9303/9544)." AAAI, 2015.
+- Rajarshi Das, Manzil Zaheer and Chris Dyer. "[Gaussian LDA for Topic Models with Word Embeddings](http://www.aclweb.org/anthology/P15-1077)." ACL, 2015. [code](https://github.com/rajarshd/Gaussian_LDA)
 - Yishu Miao, Lei Yu and Phil Blunsom. "[Neural Variational Inference for Text Processing](http://proceedings.mlr.press/v48/miao16.pdf)." ICML, 2016. [code](https://github.com/ysmiao/nvdm)
 - Manzil Zaheer, Amr Ahmed and Alexander J. Smola. "[Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data](http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf)." ICML, 2017.
 - Yishu Miao, Edward Grefenstette and Phil Blunsom. "[Discovering Discrete Latent Topics with Neural Variational Inference](http://proceedings.mlr.press/v70/miao17a/miao17a.pdf)." ICML, 2017.
@@ -36,6 +38,7 @@
 - Adji B. Dieng, Chong Wang, Jianfeng Gao and John Paisley. "[TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency](https://arxiv.org/pdf/1611.01702.pdf)." ICLR, 2017.
 - Dallas Card, Chenhao Tan and Noah A. Smith. "[A Neural Framework for Generalized Topic Models](https://arxiv.org/pdf/1705.09296v1.pdf)." arXiv preprint arXiv:1705.09296v1, 2017. [code](https://github.com/dallascard/neural_topic_models)
 - Jey Han Lau, Timothy Baldwin and Trevor Cohn. "[Topically Driven Neural Language Model](http://aclweb.org/anthology/P/P17/P17-1033.pdf)." ACL, 2017. [code](https://github.com/jhlau/topically-driven-language-model)
+- Marzieh Fadaee, Arianna Bisazza and Christof Monz. "[Learning Topic-Sensitive Word Representations](http://www.aclweb.org/anthology/P/P17/P17-2070.pdf)." ACL, 2017.
 
 #### Dialogue Generation
 - Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau. "[Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)." AAAI, 2016.
