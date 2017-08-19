@@ -29,6 +29,7 @@
 #### Neural Topic Modelling
 - Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li and Heng Ji. "[A Novel Neural Topic Model and Its Supervised Extension](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9303/9544)." AAAI, 2015.
 - Rajarshi Das, Manzil Zaheer and Chris Dyer. "[Gaussian LDA for Topic Models with Word Embeddings](http://www.aclweb.org/anthology/P15-1077)." ACL, 2015. [code](https://github.com/rajarshd/Gaussian_LDA)
+- Nematollah Kayhan Batmanghelich, Ardavan Saeedi, Karthik R. Narasimhan and Samuel J. Gershman. "[Nonparametric Spherical Topic Modeling with Word Embeddings](http://aclweb.org/anthology/P16-2087)." ACL, 2016. [code](https://github.com/Ardavans/sHDP)
 - Yishu Miao, Lei Yu and Phil Blunsom. "[Neural Variational Inference for Text Processing](http://proceedings.mlr.press/v48/miao16.pdf)." ICML, 2016. [code](https://github.com/ysmiao/nvdm)
 - Manzil Zaheer, Amr Ahmed and Alexander J. Smola. "[Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data](http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf)." ICML, 2017.
 - Yishu Miao, Edward Grefenstette and Phil Blunsom. "[Discovering Discrete Latent Topics with Neural Variational Inference](http://proceedings.mlr.press/v70/miao17a/miao17a.pdf)." ICML, 2017.
