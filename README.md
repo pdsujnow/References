@@ -56,3 +56,4 @@
 - David M. Blei, Alp Kucukelbir and Jon D. McAuliffe. "[Variational Inference: A Review for Statisticians](http://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1285773?needAccess=true)." Journal of the American Statistical Association, 2017.
 - Eric Nalisnick and Padhraic Smyth. "[Variational Reference Priors](https://openreview.net/pdf?id=rJnjwsYde)." ICLR Workshop, 2017.
 
+### Bayesian Deep Learning
