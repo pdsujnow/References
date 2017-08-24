@@ -44,6 +44,7 @@
 - Bei Shi, Wai Lam, Shoaib Jameel, Steven Schockaert and Kwun Ping Lai. "[Jointly Learning Word Embeddings and Latent Topics](http://dl.acm.org/citation.cfm?id=3080806)." SIGIR, 2017.
 
 #### Dialogue Generation
+- Jiwei Li, Will Monroe, Alan Ritter, Michel Galley, Jianfeng Gao and Dan Jurafsky. "[Deep Reinforcement Learning for Dialogue Generation](https://aclweb.org/anthology/D16-1127)." EMNLP, 2017.
 - Iulian V. Serban, Alessandro Sordoni, Yoshua Bengio, Aaron Courville and Joelle Pineau. "[Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/pdf/1507.04808.pdf)." AAAI, 2016.
 - Tsung-Hsien Wen, Yishu Miao, Phil Blunsom and Steve Young. "[Latent Intention Dialogue Models](http://proceedings.mlr.press/v70/wen17a/wen17a.pdf)." ICML, 2017.
 
