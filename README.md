@@ -25,6 +25,7 @@
 - Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. "[Document Context Language Models](https://arxiv.org/pdf/1511.03962.pdf)." ICLR Workshop, 2016.
 - Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola and Eduard Hovy. "[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)." NAACL-HLT, 2016.
 - Adams Wei Yu, Hongrae Lee and Quoc V. Le. "[Learning to Skim Text](http://aclweb.org/anthology/P17-1172)." ACL, 2017.
+- Jiwei Li and Dan Jurafsky. "[Neural Net Models for Open-Domain Discourse Coherence](https://arxiv.org/pdf/1606.01545.pdf)." EMNLP, 2017.
 
 #### Neural Topic Modelling
 - Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li and Heng Ji. "[A Novel Neural Topic Model and Its Supervised Extension](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9303/9544)." AAAI, 2015.
