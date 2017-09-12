@@ -33,6 +33,7 @@
 - Nematollah Kayhan Batmanghelich, Ardavan Saeedi, Karthik R. Narasimhan and Samuel J. Gershman. "[Nonparametric Spherical Topic Modeling with Word Embeddings](http://aclweb.org/anthology/P16-2087)." ACL, 2016. [code](https://github.com/Ardavans/sHDP)
 - Yishu Miao, Lei Yu and Phil Blunsom. "[Neural Variational Inference for Text Processing](http://proceedings.mlr.press/v48/miao16.pdf)." ICML, 2016. [code](https://github.com/ysmiao/nvdm)
 - Fei Tian, Bin Gao, Di He and Tie-Yan Liu. "[Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves](https://arxiv.org/pdf/1604.02038.pdf)." arXiv preprint arXiv:1604.02038v2, 2016.
+- Shalini Ghosh, Oriol Vinyals, Brian Strope, Scott Roy, Tom Dean and Larry Heck. "[Contextual LSTM (CLSTM) Models for Large Scale NLP Tasks](https://arxiv.org/pdf/1602.06291.pdf)." arXiv preprint arXiv:1602.06291v2, 2016.
 - Manzil Zaheer, Amr Ahmed and Alexander J. Smola. "[Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data](http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf)." ICML, 2017.
 - Yishu Miao, Edward Grefenstette and Phil Blunsom. "[Discovering Discrete Latent Topics with Neural Variational Inference](http://proceedings.mlr.press/v70/miao17a/miao17a.pdf)." ICML, 2017.
 - Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov and Eric P. Xing. "[Toward Controlled Generation of Text](http://proceedings.mlr.press/v70/hu17e/hu17e.pdf)." ICML, 2017.
