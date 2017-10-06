@@ -18,9 +18,9 @@
 
 ### Natural Language Processing
 #### Neural Sentence or Document Modelling
-- Yoon Kim. "[Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)." EMNLP, 2015. [code](https://github.com/yoonkim/CNN_sentence)
+- Yoon Kim. "[Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)." EMNLP, 2015. [[code](https://github.com/yoonkim/CNN_sentence)]
 - Rui Lin, Shujie Liu, Muyun Yang, Mu Li, Ming Zhou and Sheng Li. "[Hierarchical Recurrent Neural Network for Document Modeling](http://www.aclweb.org/anthology/D15-1106)." EMNLP, 2015.
-- Jiwei Li, Minh-Thang Luong and Dan Jurafsky. "[A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
+- Jiwei Li, Minh-Thang Luong and Dan Jurafsky. "[A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [[code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)]
 - Tian Wang and Kyunghyun Cho. "[Larger-context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
 - Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. "[Document Context Language Models](https://arxiv.org/pdf/1511.03962.pdf)." ICLR Workshop, 2016.
 - Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola and Eduard Hovy. "[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)." NAACL-HLT, 2016.
@@ -29,19 +29,19 @@
 
 #### Neural Topic Modelling
 - Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li and Heng Ji. "[A Novel Neural Topic Model and Its Supervised Extension](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9303/9544)." AAAI, 2015.
-- Rajarshi Das, Manzil Zaheer and Chris Dyer. "[Gaussian LDA for Topic Models with Word Embeddings](http://www.aclweb.org/anthology/P15-1077)." ACL, 2015. [code](https://github.com/rajarshd/Gaussian_LDA)
-- Nematollah Kayhan Batmanghelich, Ardavan Saeedi, Karthik R. Narasimhan and Samuel J. Gershman. "[Nonparametric Spherical Topic Modeling with Word Embeddings](http://aclweb.org/anthology/P16-2087)." ACL, 2016. [code](https://github.com/Ardavans/sHDP)
-- Yishu Miao, Lei Yu and Phil Blunsom. "[Neural Variational Inference for Text Processing](http://proceedings.mlr.press/v48/miao16.pdf)." ICML, 2016. [code](https://github.com/ysmiao/nvdm)
+- Rajarshi Das, Manzil Zaheer and Chris Dyer. "[Gaussian LDA for Topic Models with Word Embeddings](http://www.aclweb.org/anthology/P15-1077)." ACL, 2015. [[code](https://github.com/rajarshd/Gaussian_LDA)]
+- Nematollah Kayhan Batmanghelich, Ardavan Saeedi, Karthik R. Narasimhan and Samuel J. Gershman. "[Nonparametric Spherical Topic Modeling with Word Embeddings](http://aclweb.org/anthology/P16-2087)." ACL, 2016. [[code](https://github.com/Ardavans/sHDP)]
+- Yishu Miao, Lei Yu and Phil Blunsom. "[Neural Variational Inference for Text Processing](http://proceedings.mlr.press/v48/miao16.pdf)." ICML, 2016. [[code](https://github.com/ysmiao/nvdm)]
 - Fei Tian, Bin Gao, Di He and Tie-Yan Liu. "[Sentence Level Recurrent Topic Model: Letting Topics Speak for Themselves](https://arxiv.org/pdf/1604.02038.pdf)." arXiv preprint arXiv:1604.02038v2, 2016.
 - Shalini Ghosh, Oriol Vinyals, Brian Strope, Scott Roy, Tom Dean and Larry Heck. "[Contextual LSTM (CLSTM) Models for Large Scale NLP Tasks](https://arxiv.org/pdf/1602.06291.pdf)." arXiv preprint arXiv:1602.06291v2, 2016.
 - Manzil Zaheer, Amr Ahmed and Alexander J. Smola. "[Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data](http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf)." ICML, 2017.
 - Yishu Miao, Edward Grefenstette and Phil Blunsom. "[Discovering Discrete Latent Topics with Neural Variational Inference](http://proceedings.mlr.press/v70/miao17a/miao17a.pdf)." ICML, 2017.
 - Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov and Eric P. Xing. "[Toward Controlled Generation of Text](http://proceedings.mlr.press/v70/hu17e/hu17e.pdf)." ICML, 2017.
 - Ramesh Nallapati, Igor Melnyk, Abhishek Kumar and Bowen Zhou. "[SenGen: Sentence Generating Neural Variational Topic Model](https://arxiv.org/pdf/1708.00308.pdf)." ICML Workshop on Learning to Generate Natural Language, 2017.
-- Akash Srivastava and Charles Sutton. "[Autoencoding Variational Inference for Topic Models](https://arxiv.org/pdf/1703.01488.pdf)." ICLR, 2017. [code](https://github.com/akashgit/autoencoding_vi_for_topic_models)
+- Akash Srivastava and Charles Sutton. "[Autoencoding Variational Inference for Topic Models](https://arxiv.org/pdf/1703.01488.pdf)." ICLR, 2017. [[code](https://github.com/akashgit/autoencoding_vi_for_topic_models)]
 - Adji B. Dieng, Chong Wang, Jianfeng Gao and John Paisley. "[TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency](https://arxiv.org/pdf/1611.01702.pdf)." ICLR, 2017.
-- Dallas Card, Chenhao Tan and Noah A. Smith. "[A Neural Framework for Generalized Topic Models](https://arxiv.org/pdf/1705.09296v1.pdf)." arXiv preprint arXiv:1705.09296v1, 2017. [code](https://github.com/dallascard/neural_topic_models)
-- Jey Han Lau, Timothy Baldwin and Trevor Cohn. "[Topically Driven Neural Language Model](http://aclweb.org/anthology/P/P17/P17-1033.pdf)." ACL, 2017. [code](https://github.com/jhlau/topically-driven-language-model)
+- Dallas Card, Chenhao Tan and Noah A. Smith. "[A Neural Framework for Generalized Topic Models](https://arxiv.org/pdf/1705.09296v1.pdf)." arXiv preprint arXiv:1705.09296v1, 2017. [[code](https://github.com/dallascard/neural_topic_models)]
+- Jey Han Lau, Timothy Baldwin and Trevor Cohn. "[Topically Driven Neural Language Model](http://aclweb.org/anthology/P/P17/P17-1033.pdf)." ACL, 2017. [[code](https://github.com/jhlau/topically-driven-language-model)]
 - Marzieh Fadaee, Arianna Bisazza and Christof Monz. "[Learning Topic-Sensitive Word Representations](http://www.aclweb.org/anthology/P/P17/P17-2070.pdf)." ACL, 2017.
 - Bei Shi, Wai Lam, Shoaib Jameel, Steven Schockaert and Kwun Ping Lai. "[Jointly Learning Word Embeddings and Latent Topics](http://dl.acm.org/citation.cfm?id=3080806)." SIGIR, 2017.
 
@@ -55,9 +55,9 @@
 - Dzmitry Bahdanau, KyungHyun Cho and Yoshua Bengio. "[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)." ICLR, 2015.
 
 ### Bayesian Learning
-- Shaohua Li, Tat-Seng Chua, Jun Zhu and Chunyan Miao. "[Generative Topic Embedding: a Continuous Representation of Documents](http://aclweb.org/anthology/P16-1063)." ACL, 2016. [code](https://github.com/askerlee/topicvec)
+- Shaohua Li, Tat-Seng Chua, Jun Zhu and Chunyan Miao. "[Generative Topic Embedding: a Continuous Representation of Documents](http://aclweb.org/anthology/P16-1063)." ACL, 2016. [[code](https://github.com/askerlee/topicvec)]
 - David M. Blei, Alp Kucukelbir and Jon D. McAuliffe. "[Variational Inference: A Review for Statisticians](http://www.tandfonline.com/doi/pdf/10.1080/01621459.2017.1285773?needAccess=true)." Journal of the American Statistical Association, 2017.
 - Eric Nalisnick and Padhraic Smyth. "[Variational Reference Priors](https://openreview.net/pdf?id=rJnjwsYde)." ICLR Workshop, 2017.
 
 ### Bayesian Deep Learning or Deep Bayesian Learning
-- Klaus Greff, Sjoerd van Steenkiste and J\"{u}rgen Schmidhuber. "[Neural Expectation Maximization](https://arxiv.org/pdf/1708.03498.pdf)." NIPS, 2017. [code](https://github.com/sjoerdvansteenkiste/Neural-EM)
+- Klaus Greff, Sjoerd van Steenkiste and J\"{u}rgen Schmidhuber. "[Neural Expectation Maximization](https://arxiv.org/pdf/1708.03498.pdf)." NIPS, 2017. [[code](https://github.com/sjoerdvansteenkiste/Neural-EM)]
