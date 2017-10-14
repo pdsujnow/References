@@ -24,6 +24,7 @@
 - Tian Wang and Kyunghyun Cho. "[Larger-context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
 - Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. "[Document Context Language Models](https://arxiv.org/pdf/1511.03962.pdf)." ICLR Workshop, 2016.
 - Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola and Eduard Hovy. "[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)." NAACL-HLT, 2016.
+- Ke Tran, Arianna Bisazza and Christof Monz. "[Recurrent Memory Networks for Language Modeling](http://www.aclweb.org/anthology/N16-1036)." NAACL-HLT, 2016. [[code](https://github.com/ketranm/RMN)]
 - Adams Wei Yu, Hongrae Lee and Quoc V. Le. "[Learning to Skim Text](http://aclweb.org/anthology/P17-1172)." ACL, 2017.
 - Jiwei Li and Dan Jurafsky. "[Neural Net Models for Open-Domain Discourse Coherence](https://arxiv.org/pdf/1606.01545.pdf)." EMNLP, 2017.
 
