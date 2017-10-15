@@ -16,6 +16,10 @@
 - Iulian V. Serban, Alessandro Sordoni, Ryan Lowe, Laurent Charlin, Joelle Pineau, Aaron Courville and Yoshua Bengio. "[A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues](https://arxiv.org/pdf/1605.06069.pdf)." AAAI, 2017.
 - Iulian V. Serban, Alexander G. Ororbia, Joelle Pineau and Aaron Courville. "[Piecewise Latent Variables for Neural Variational Text Processing](https://arxiv.org/pdf/1612.00377.pdf)." EMNLP, 2017. [[code](https://github.com/julianser/hred-latent-piecewise)]
 
+### Deep Learning
+#### Memory Networks
+- Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston and Rob Fergus. "[End-to-End Memory Networks](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)." NIPS, 2015. [[code](https://github.com/carpedm20/MemN2N-tensorflow)]
+
 ### Natural Language Processing
 #### Neural Sentence or Document Modelling
 - Yoon Kim. "[Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)." EMNLP, 2015. [[code](https://github.com/yoonkim/CNN_sentence)]
