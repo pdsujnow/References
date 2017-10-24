@@ -57,6 +57,7 @@
 - Tsung-Hsien Wen, Yishu Miao, Phil Blunsom and Steve Young. "[Latent Intention Dialogue Models](http://proceedings.mlr.press/v70/wen17a/wen17a.pdf)." ICML, 2017.
 
 #### Neural Machine Translation
+- Ilya Sutskever, Oriol Vinyals and Quoc V. Le. "[Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)." NIPS, 2014.
 - Kyunghyun Cho, Bart van Merr\.{i}\"{e}nboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk and Yoshua Bengio. "[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](http://www.aclweb.org/anthology/D14-1179)." EMNLP, 2014.
 - Dzmitry Bahdanau, KyungHyun Cho and Yoshua Bengio. "[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf)." ICLR, 2015.
 
