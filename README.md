@@ -25,6 +25,7 @@
 - Yoon Kim. "[Convolutional Neural Networks for Sentence Classification](http://www.aclweb.org/anthology/D14-1181)." EMNLP, 2015. [[code](https://github.com/yoonkim/CNN_sentence)]
 - Rui Lin, Shujie Liu, Muyun Yang, Mu Li, Ming Zhou and Sheng Li. "[Hierarchical Recurrent Neural Network for Document Modeling](http://www.aclweb.org/anthology/D15-1106)." EMNLP, 2015.
 - Jiwei Li, Minh-Thang Luong and Dan Jurafsky. "[A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P/P15/P15-1107.pdf)." ACL, 2015. [[code](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)]
+- Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz and Samy Bengio. "[Generating Sentences from a Continuous Space](http://www.aclweb.org/anthology/K16-1002)." CoNLL, 2016. [[code](https://github.com/Chung-I/Variational-Recurrent-Autoencoder-Tensorflow)]
 - Tian Wang and Kyunghyun Cho. "[Larger-context Language Modelling with Recurrent Neural Network](http://aclweb.org/anthology/P/P16/P16-1125.pdf)." ACL, 2016.
 - Yangfeng Ji, Trevor Cohn, Lingpeng Kong, Chris Dyer and Jacob Eisenstein. "[Document Context Language Models](https://arxiv.org/pdf/1511.03962.pdf)." ICLR Workshop, 2016.
 - Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola and Eduard Hovy. "[Hierarchical Attention Networks for Document Classification](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)." NAACL-HLT, 2016.
